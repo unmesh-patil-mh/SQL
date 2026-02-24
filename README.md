@@ -43,3 +43,17 @@ The project focuses on understanding relational database concepts and writing ef
 
 ---
 
+## 💻 How to Run the Project
+
+### 1️⃣ Install MySQL
+Download and install MySQL from the official website.
+
+### 2️⃣ Open MySQL Workbench or Command Line
+
+### 3️⃣ Import SQL File
+
+Using command line prompt:
+```
+mysql -u root -p
+```
+After prompt enter the password of your mySql
